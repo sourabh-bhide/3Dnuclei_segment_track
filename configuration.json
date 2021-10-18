@@ -1,0 +1,9 @@
+{
+    "filename": "Z:/Sourabh/h2btdtomatongn3gfp/X1Y1_H2B_for_dec_hpc_decon.h5",
+    "output_shape": [
+        218,
+        1024,
+        1344
+    ],
+    "model_dir": "H2B_tdtomato_40x_live_isotropic_100epochs_128rays_prob05_nms04"
+}
