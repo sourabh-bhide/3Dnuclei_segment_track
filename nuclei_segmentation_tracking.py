@@ -3,7 +3,7 @@
 """
 Created on Thu Oct 14 11:46:34 2021
 
-@author: hcr770
+@author: sourabh.j.bhide@gmail.com
 """
 
 from __future__ import print_function, unicode_literals, absolute_import, division
@@ -39,7 +39,7 @@ def read_config(config_filename):
         config_data = json.load(json_file)  
     return config_data
 
-config = read_config('/Volumes/Groupdir/SUN-DAN-Semb/Sourabh/h2btdtomatongn3gfp/configuration_airflow.json')
+config = read_config('/path/to/your/config/file/configuration.json')
 
 #%%
 #data preparation
